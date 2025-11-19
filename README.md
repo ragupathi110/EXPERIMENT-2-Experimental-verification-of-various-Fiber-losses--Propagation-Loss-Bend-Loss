@@ -1,6 +1,7 @@
 # EXPERIMENT-2-OPTICAL-COMMUNICATION
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
-
+# NAME : Ragupathi Raj M
+# REG :NO: 212222060185
 **Aim:**  
 To measure propagation and bending losses for two wavelengths in plastic fiber.
 
